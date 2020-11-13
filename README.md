@@ -60,5 +60,8 @@ Create collection
 db.createCollection('lit-data')
 ```
 
+## Scrips usage
 
-
+Run node
+```
+node ./script-name.js
