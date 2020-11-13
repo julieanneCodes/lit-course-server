@@ -60,7 +60,7 @@ Create collection
 db.createCollection('lit-data')
 ```
 
-## Scrips usage
+## Scripts usage
 
 Run node
 ```
